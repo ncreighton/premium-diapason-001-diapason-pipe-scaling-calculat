@@ -1,0 +1,2 @@
+# premium-diapason-001-diapason-pipe-scaling-calculat
+Stop guessing the perfect proportions for your diapason pipes. The Diapason Pipe Scaling Calculator takes the centuries-old art of organ pipe scaling and turns it into a precise, repeatable digital workflow — right inside Notion.  This template eliminates the tedium of manual ratio calculations and inconsistent scaling, giving you a dedicated calcu
